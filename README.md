@@ -9,6 +9,7 @@ Install
 git clone https://github.com/mshytikov/myapp
 cd myapp
 vagrant up
+vagrant provision
 vagrant ssh
 sudo su
 cd /vagrant
